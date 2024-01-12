@@ -6,4 +6,4 @@ This Tiff's Treats Point-of-Sale system was created as part of my Programming St
 The POS system uses a combination of React as well as Node.js for the frontend and backend respectively to achieve a complete full stack project; the frontend also included plenty of HTML and CSS to help with the styling of the website while the backend incorporated many API route calls as well as connected to a database via postgreSQL. 
 
 ## Acknowledgements
-I would like to thank my three other groupmaes Anil Parthasarathi, Andres Santiago, and Will Heeney
+I would like to thank my three other groupmates Anil Parthasarathi, Andres Santiago, and Will Heeney
