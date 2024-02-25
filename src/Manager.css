@@ -1,0 +1,11 @@
+.dateRangeButton {
+    background-color: #fafafa;
+    color: #000892;
+    border: 2px solid #000892;
+    margin-left: 2px;
+    margin-right: 2px;
+    margin-bottom: 2px;
+    padding: 8px 16px;
+    cursor: pointer;
+
+}
